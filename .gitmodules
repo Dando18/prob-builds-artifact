@@ -1,0 +1,6 @@
+[submodule "concretizers/spack"]
+	path = concretizers/spack
+	url = https://github.com/spack/spack
+[submodule "concretizers/plingo"]
+	path = concretizers/plingo
+	url = https://github.com/potassco/plingo
